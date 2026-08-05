@@ -1,100 +1,75 @@
-## Hi there 
-Hi 👋, I'm Sankalp Lohe</h1>
+# Hi 👋, I'm Sankalp Lohe
 
+## AI & Machine Learning Enthusiast | Python Developer | Data Science
 
-AI & Machine Learning Enthusiast | Python Developer | Data Science Aspirant
-</h3>
+Passionate about building practical AI and Machine Learning solutions using Python. I enjoy solving real-world problems through data, machine learning, and continuous learning.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Electronics & Telecommunication Engineering
+- 🎓 B.Tech Student in Electronics & Telecommunication Engineering
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+- 💻 Building real-world Python projects
+- 📚 Currently learning Generative AI, AI Agents, and Prompt Engineering
+- 🎯 Looking for opportunities as an AI/ML Engineer, Python Developer, or Data Science Intern
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Data Science
+---
 
-🐍 Python Programmer
+# 🚀 Featured Projects
 
-📊 Love solving real-world problems using data
+## 📊 Retail Sales Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insights
 
-🌱 Currently learning
+## 🤖 Loan Default Prediction
 - Machine Learning
-- Deep Learning
-- Generative AI
-- DSA in Python
+- Logistic Regression
+- Data Preprocessing
+- Model Evaluation
 
-🎯 Goal:
-Become an AI/ML Engineer and build impactful AI applications.
+## 🚚 Delivery Route Simulation
+- Graph Algorithms
+- Route Optimization
+- Python Implementation
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Technical Skills
 
 ### Programming
 - Python
 - SQL
 
-### Data Science
+### Data Science & Machine Learning
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
 
-### AI & ML
-- Machine Learning
-- Data Analysis
-- Data Visualization
-
 ### Tools
-
 - Git
 - GitHub
 - Google Colab
-- VS Code
 - Jupyter Notebook
 
 ---
 
-# 📂 Featured Projects
+# 🏆 Certifications
 
-## 🛒 Retail Sales Analysis
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Business Insights
-
-✔ Python
-
-✔ Pandas
-
-✔ Matplotlib
-
-Repository:
-https://github.com/sankalplohe-ai/retail-sales-analysis
+- IBM – Machine Learning with Python
+- Google Cloud – Prompt Design in Vertex AI
+- Anthropic – Claude AI
+- Anthropic – Claude Code 101
+- Zapier – Building AI Agents
+- Zapier – What is Zapier MCP
 
 ---
 
-## 💰 Loan Default Prediction
-
-✔ Machine Learning
-
-✔ Logistic Regression
-
-✔ Random Forest
-
-✔ Data Preprocessing
-
-✔ Feature Engineering
-
-Repository:
-(Add Link)
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalplohe-ai&show_icons=true&theme=tokyonight)
 
@@ -102,23 +77,31 @@ Repository:
 
 ---
 
-## 🔥 GitHub Streak
+# 🌱 Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sankalplohe-ai&theme=tokyonight)
+- Generative AI
+- AI Agents
+- Prompt Engineering
+- Machine Learning
+- Python Development
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-LinkedIn:
-(Add LinkedIn)
+📧 **Email**
 
-GitHub:
+sankalplohe@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/sankalpa-mahendra-ratnabodhi-lohe-88098b200
+
+🐙 **GitHub**
+
 https://github.com/sankalplohe-ai
 
-Email:
-(Your Email)
-
 ---
 
-⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my GitHub profile!
+Feel free to explore my projects and connect with me.
