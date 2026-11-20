@@ -2,7 +2,7 @@
 
 ## AI & Machine Learning Enthusiast | Python Developer | Data Science
 
-Passionate about building practical AI and Machine Learning solutions using Python. I enjoy solving real-world problems through data, machine learning, and continuous learning.
+Seeking entry-level Data Analyst roles, with a long-term interest in data science and machine learning
 
 ---
 
