@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sankalp Lohe
+# Hi 👋, I'm Sankalp Ratnabodhi(lohe)
 
 ## AI & Machine Learning Enthusiast | Python Developer | Data Science
 
