@@ -95,7 +95,7 @@ sankalplohe@gmail.com
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/sankalpa-mahendra-ratnabodhi-lohe-88098b200
+https://www.linkedin.com/in/sankalpa-mahendra-ratnabodhi-lohe.
 
 🐙 **GitHub**
 
